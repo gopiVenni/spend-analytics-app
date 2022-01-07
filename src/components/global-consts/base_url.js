@@ -1,0 +1,1 @@
+global.web_url='https://mytest9007.000webhostapp.com/spend_analytics/';
